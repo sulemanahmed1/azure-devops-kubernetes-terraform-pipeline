@@ -10,9 +10,7 @@ variable location {
     default = "westeurope"
 }
 
-variable node_count {
-  default = 1
-}
+variable node_count { default = 1 }
 
 
 
